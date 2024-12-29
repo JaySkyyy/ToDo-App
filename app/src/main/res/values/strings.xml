@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="delete_confirmation">Подтверждение</string>
+    <string name="sureToDelete">Вы уверены, что хотите удалить задачу?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="confirmation">Подтверждение</string>
+    <string name="sureToMarkAsComplete">Вы уверены, что хотите отметить задачу, как выполненную?</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Поздравляем! Вы успешно завершили задачу!</string>
+    <string-array name="categories">
+        <item>Все задачи</item>
+        <item>Дом</item>
+        <item>Работа</item>
+        <item>Учёба</item>
+        <item>Разное</item>
+    </string-array>
+</resources>
